@@ -118,7 +118,7 @@ SELECT * FROM fraud_summary_view;
 
 ## 👤 Author
 
-**Preethiv Ram Ram**  
+**Preethiv Ram **  
 Data Analyst | BFSI Domain  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/preethivram)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/preethivram-2k)
